@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">visitingCard</string>
+    <string name="first_name">John Doe</string>
+    <string name="job_title">Frontend Developer</string>
+    <string name="address">Avenue Street,Bellandur,Bangalore,India</string>
+</resources>
